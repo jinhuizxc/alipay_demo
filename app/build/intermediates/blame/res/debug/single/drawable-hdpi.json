@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\sun\\Desktop\\alipay_demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msp_demo_title_bg.png",
+        "source": "C:\\Users\\sun\\Desktop\\alipay_demo\\app\\src\\main\\res\\drawable-hdpi\\msp_demo_title_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\sun\\Desktop\\alipay_demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msp_demo_title.png",
+        "source": "C:\\Users\\sun\\Desktop\\alipay_demo\\app\\src\\main\\res\\drawable-hdpi\\msp_demo_title.png"
+    },
+    {
+        "merged": "C:\\Users\\sun\\Desktop\\alipay_demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msp_icon.png",
+        "source": "C:\\Users\\sun\\Desktop\\alipay_demo\\app\\src\\main\\res\\drawable-hdpi\\msp_icon.png"
+    }
+]

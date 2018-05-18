@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\sun\\Desktop\\alipay_demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pay_main.xml",
+        "source": "C:\\Users\\sun\\Desktop\\alipay_demo\\app\\src\\main\\res\\layout\\pay_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sun\\Desktop\\alipay_demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pay_external.xml",
+        "source": "C:\\Users\\sun\\Desktop\\alipay_demo\\app\\src\\main\\res\\layout\\pay_external.xml"
+    }
+]
